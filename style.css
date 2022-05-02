@@ -1,0 +1,16 @@
+#id {
+ height: 10px;
+ width: 10px;
+}
+
+header
+{
+    height: auto;
+    background-color: blanchedalmond;
+    border-style:double;
+    border-color: black;
+    display : flex;
+    flex-direction : row;
+    flex-grow: 4;
+    justify-content:space-between; 
+}
